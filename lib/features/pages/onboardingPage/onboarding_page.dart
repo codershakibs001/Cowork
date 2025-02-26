@@ -1,10 +1,11 @@
-import 'package:cowork_1/common/my_custom_text.dart';
-import 'package:cowork_1/controller/getx/ui/onboarding/onboarding.dart';
-import 'package:cowork_1/features/authentication/login/login.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
+import '../../../common/my_custom_text.dart';
+import '../../../controller/getx/ui/onboarding/onboarding.dart';
+import '../../authentication/login/login.dart';
 import 'widget/onboarding1.dart';
 import 'widget/onboarding2.dart';
 import 'widget/onboarding3.dart';

@@ -1,5 +1,6 @@
-import 'package:cowork_1/common/my_custom_text.dart';
 import 'package:flutter/material.dart';
+
+import '../../../../common/my_custom_text.dart';
 
 class Onboarding1 extends StatelessWidget {
   const Onboarding1({super.key});

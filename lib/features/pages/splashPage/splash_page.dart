@@ -1,5 +1,6 @@
 import 'package:cowork_1/common/my_custom_text.dart';
 import 'package:cowork_1/controller/getx/ui/splashPage/splash.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'widget/custom_images.dart';

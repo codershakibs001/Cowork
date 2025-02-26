@@ -1,9 +1,10 @@
-import 'package:cowork_1/common/my_custom_button.dart';
-import 'package:cowork_1/common/my_custom_text.dart';
-import 'package:cowork_1/controller/getx/ui/authentication/login/login.dart';
-import 'package:cowork_1/features/authentication/register/register.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import '../../../common/my_custom_button.dart';
+import '../../../common/my_custom_text.dart';
+import '../../../controller/getx/ui/authentication/login/login.dart';
+import '../register/register.dart';
 import 'widgets/my_custom_email_field.dart';
 import 'widgets/my_custom_pass_field.dart';
 
