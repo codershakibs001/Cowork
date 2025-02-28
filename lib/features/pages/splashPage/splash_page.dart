@@ -1,6 +1,5 @@
 import 'package:cowork_1/common/my_custom_text.dart';
 import 'package:cowork_1/controller/getx/ui/splashPage/splash.dart';
-
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'widget/custom_images.dart';
@@ -40,7 +39,7 @@ class SplashPage extends StatelessWidget {
             ),
             CustomText(
                 tName: "Why do you want to motivate yourself?",
-                color: Colors.grey[400])
+                color: Colors.grey[400]),
           ],
         ),
       ),
